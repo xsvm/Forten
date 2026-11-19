@@ -1,0 +1,8 @@
+/dist/
+/desktop/bin/
+/desktop/obj/
+*.exe
+*.log
+*.local.yaml
+*.local.yml
+*.local.json
